@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-📄 Recently graduated from the Northcoders full stack software developer bootcamp<br><br>💼 Looking to land my first junior software developer role<br><br>📚 Currently learning more about the tech that was taught on the bootcamp (Javascript, Node.js, Express, PostgreSQL, React, HTML, CSS)<br><br>🧞 Wish to explore new tech like React Native, Next.JS., Tailwind CSS<br><br>💬 Ask me about anything football related<br><br>⚡ Fun fact: I spent 10 years as an I.T Technician
+📄 A graduate of the Northcoders full stack software developer bootcamp.<br><br>💼 Currently trying to land my first role in software development.<br><br>📚 Skills: JavaScript, Node.js, Express, PostgreSQL, React, HTML, CSS.<br><br>🧞 Have had exposure to AWS, C#, Next.js, Python, React Native, React Router, TypeScript and wish to learn and explore them further as well as other technologies and tools.<br><br>💬 Ask me about anything football related.<br><br>⚡ Fun fact: I spent 10 years as an I.T Technician prior to moving into the wonderful world of programming.
 
 ## 🌐 Socials:
 

@@ -69,3 +69,7 @@
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=mandeep-s1ngh&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+## 💯 Achievements
+
+<img src="./hall of fame.png" width="750">
